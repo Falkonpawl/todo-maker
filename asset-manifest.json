@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-maker/static/css/main.eb40548b.css",
+    "main.js": "/todo-maker/static/js/main.16b598d0.js",
+    "index.html": "/todo-maker/index.html",
+    "main.eb40548b.css.map": "/todo-maker/static/css/main.eb40548b.css.map",
+    "main.16b598d0.js.map": "/todo-maker/static/js/main.16b598d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb40548b.css",
+    "static/js/main.16b598d0.js"
+  ]
+}
